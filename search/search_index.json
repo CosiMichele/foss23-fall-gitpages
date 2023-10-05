@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"This is my Website!","text":"<p>Here goes my explanation of what this website is about.</p> <p>This is a tutorial for the FOSS 2023 Fall Documentation and Communcation class.</p>"}]}
